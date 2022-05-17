@@ -1,5 +1,0 @@
-
-2022-05-17 13:33:00.645494 'test_sample' test logs with driver = chrome
-
-2022-05-17 13:32:56.580000	SEVERE	https://www.basicwebsiteexample.com/assets/js/translations.jssections=widgets,mobile,shared_views,shared_components,cookie - Failed to load resource: the server responded with a status of 404 ()
-2022-05-17 13:33:00.355000	SEVERE	https://www.basicwebsiteexample.com/assets/images/4dca9b34-c5c5-450c-abd5-12b70de582d0.icov=1578658911 - Failed to load resource: the server responded with a status of 404 ()
